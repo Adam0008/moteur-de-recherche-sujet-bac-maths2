@@ -1,11 +1,13 @@
-// Configuration Supabase
-// ⚠️ REMPLACE CES VALEURS PAR TES CLÉS !
+const SUPABASE_URL = "https://bmxonrzyrymmwlweykie.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_qXghUgFuoBxwyJfs5Qg2vw_cbolYFvS";
 
-const SUPABASE_URL = "https://bmxonrzyrymmwlweykie.supabase.co"; // Copie ton URL ici
-const SUPABASE_ANON_KEY = "sb_publishable_qXghUgFuoBxwyJfs5Qg2vw_cbolYFvS"; // Copie ta clé publique ici
+// On crée un client propre
+const supabaseClient = window.supabase.createClient(
+  SUPABASE_URL,
+  SUPABASE_ANON_KEY
+);
 
-const { createClient } = window.supabase;
-const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+// On le rend global sous un autre nom
+window.supabaseClient = supabaseClient;
 
-// Exporte supabase pour l'utiliser dans les autres fichiers
-window.supabase = supabase;
+console.log("✅ Supabase connecté !");
