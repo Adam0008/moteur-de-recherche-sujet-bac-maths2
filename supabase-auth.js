@@ -1,13 +1,12 @@
 // =====================================================
-// AUTHENTIFICATION AVEC SUPABASE (VERSION SÉCURISÉE)
+// AUTHENTIFICATION AVEC SUPABASE (VERSION CORRIGÉE)
 // =====================================================
 
 
 // ===== INSCRIPTION =====
 async function registerUser(email, password, fullName = "") {
   try {
-    // 1️⃣ Création du compte dans Supabase Auth
-    const { data: authData, error: authError } = await supabase.auth.signUp({
+    const { data: authData, error: authError } = await supabaseClient.auth.signUp({
       email: email,
       password: password
     });
@@ -18,12 +17,12 @@ async function registerUser(email, password, fullName = "") {
     }
 
     if (!authData.user) {
-      alert("Erreur : utilisateur non créé.");
+      alert("Utilisateur non créé.");
       return null;
     }
 
-    // 2️⃣ Création du profil dans la table public.users
-    const { error: userError } = await supabase
+    // Création du profil dans la table users
+    const { error: userError } = await supabaseClient
       .from('users')
       .insert([
         {
@@ -51,7 +50,7 @@ async function registerUser(email, password, fullName = "") {
 // ===== CONNEXION =====
 async function loginUser(email, password) {
   try {
-    const { data, error } = await supabase.auth.signInWithPassword({
+    const { data, error } = await supabaseClient.auth.signInWithPassword({
       email: email,
       password: password
     });
@@ -66,13 +65,11 @@ async function loginUser(email, password) {
       return null;
     }
 
-    // Stocke infos utilisateur localement
     localStorage.setItem('userId', data.user.id);
     localStorage.setItem('userEmail', data.user.email);
 
     console.log("✅ Connecté !");
 
-    // Charger la progression
     await loadUserProgress(data.user.id);
 
     return data.user;
@@ -87,7 +84,7 @@ async function loginUser(email, password) {
 // ===== DÉCONNEXION =====
 async function logoutUser() {
   try {
-    const { error } = await supabase.auth.signOut();
+    const { error } = await supabaseClient.auth.signOut();
 
     if (error) {
       alert("Erreur de déconnexion : " + error.message);
@@ -110,7 +107,7 @@ async function logoutUser() {
 // ===== CHARGER LA PROGRESSION =====
 async function loadUserProgress(userId) {
   try {
-    const { data, error } = await supabase
+    const { data, error } = await supabaseClient
       .from('user_progress')
       .select('*')
       .eq('user_id', userId)
@@ -127,7 +124,6 @@ async function loadUserProgress(userId) {
       return data;
     }
 
-    // Si aucune progression → en créer une
     return await createUserProgress(userId);
 
   } catch (error) {
@@ -140,7 +136,7 @@ async function loadUserProgress(userId) {
 // ===== CRÉER PROGRESSION INITIALE =====
 async function createUserProgress(userId) {
   try {
-    const { data, error } = await supabase
+    const { data, error } = await supabaseClient
       .from('user_progress')
       .insert([
         {
@@ -172,7 +168,7 @@ async function createUserProgress(userId) {
 // ===== SAUVEGARDER PROGRESSION =====
 async function saveUserProgress(userId, progressData) {
   try {
-    const { data, error } = await supabase
+    const { data, error } = await supabaseClient
       .from('user_progress')
       .update({
         sujets_traites: progressData.sujets_traites || [],
