@@ -1,11 +1,13 @@
 // =====================================================
-// AUTH MODAL - VERSION SUPABASE
+// AUTH MODAL - VERSION SUPABASE (CORRIGÉE)
 // =====================================================
 
 (function () {
 
   const navConnexion = document.getElementById("nav-connexion");
   const modal = document.getElementById("auth-modal");
+  if (!modal) return;
+
   const titre = document.getElementById("auth-modal-titre");
 
   const formConnexion = document.getElementById("auth-form-connexion");
@@ -14,10 +16,8 @@
   const goInscription = document.getElementById("auth-go-inscription");
   const goConnexion = document.getElementById("auth-go-connexion");
 
-  const closeBtn = modal ? modal.querySelector(".auth-modal-close") : null;
-  const overlay = modal ? modal.querySelector(".auth-modal-overlay") : null;
-
-  if (!modal) return;
+  const closeBtn = modal.querySelector(".auth-modal-close");
+  const overlay = modal.querySelector(".auth-modal-overlay");
 
   let currentUser = null;
   window.AUTH_USER = null;
@@ -40,6 +40,7 @@
         '</div>';
 
       const btnLogout = document.getElementById("nav-logout-btn");
+
       if (btnLogout) {
         btnLogout.addEventListener("click", async function () {
           await logoutUser();
@@ -91,14 +92,18 @@
   // SESSION AU CHARGEMENT
   // =============================
 
-  supabase.auth.getUser().then(function (response) {
-    if (response.data.user) {
+  supabaseClient.auth.getUser().then(function (response) {
+
+    if (response.data && response.data.user) {
+
       currentUser = {
         id: response.data.user.id,
         email: response.data.user.email
       };
+
       window.AUTH_USER = currentUser;
     }
+
     updateNav();
   });
 
@@ -110,10 +115,7 @@
     navConnexion.addEventListener("click", function (e) {
       e.preventDefault();
 
-      if (currentUser) {
-        // déjà connecté → ne rien faire
-        return;
-      }
+      if (currentUser) return;
 
       ouvrirConnexion();
     });
@@ -134,59 +136,62 @@
   // CONNEXION
   // =============================
 
-  formConnexion.addEventListener("submit", async function (e) {
-    e.preventDefault();
+  if (formConnexion) {
+    formConnexion.addEventListener("submit", async function (e) {
+      e.preventDefault();
 
-    const email = document.getElementById("auth-email").value;
-    const password = document.getElementById("auth-password").value;
+      const email = document.getElementById("auth-email").value;
+      const password = document.getElementById("auth-password").value;
 
-    const user = await loginUser(email, password);
+      const user = await loginUser(email, password);
 
-    if (!user) {
-      handleError("Email ou mot de passe incorrect.");
-      return;
-    }
+      if (!user) {
+        handleError("Email ou mot de passe incorrect.");
+        return;
+      }
 
-    setLoggedIn({
-      id: user.id,
-      email: user.email
+      setLoggedIn({
+        id: user.id,
+        email: user.email
+      });
+
+      fermer();
     });
-
-    fermer();
-  });
+  }
 
   // =============================
   // INSCRIPTION
   // =============================
 
-  formInscription.addEventListener("submit", async function (e) {
-    e.preventDefault();
+  if (formInscription) {
+    formInscription.addEventListener("submit", async function (e) {
+      e.preventDefault();
 
-    const prenom = document.getElementById("auth-prenom").value;
-    const email = document.getElementById("auth-email-inscription").value;
-    const p1 = document.getElementById("auth-password-inscription").value;
-    const p2 = document.getElementById("auth-password-confirm").value;
+      const prenom = document.getElementById("auth-prenom").value;
+      const email = document.getElementById("auth-email-inscription").value;
+      const p1 = document.getElementById("auth-password-inscription").value;
+      const p2 = document.getElementById("auth-password-confirm").value;
 
-    if (p1 !== p2) {
-      alert("Les mots de passe ne correspondent pas.");
-      return;
-    }
+      if (p1 !== p2) {
+        alert("Les mots de passe ne correspondent pas.");
+        return;
+      }
 
-    const user = await registerUser(email, p1, prenom);
+      const user = await registerUser(email, p1, prenom);
 
-    if (!user) {
-      handleError("Impossible de créer le compte.");
-      return;
-    }
+      if (!user) {
+        handleError("Impossible de créer le compte.");
+        return;
+      }
 
-    setLoggedIn({
-      id: user.id,
-      email: user.email,
-      prenom: prenom
+      setLoggedIn({
+        id: user.id,
+        email: user.email
+      });
+
+      fermer();
     });
-
-    fermer();
-  });
+  }
 
   // =============================
   // ESC POUR FERMER
