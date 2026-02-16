@@ -1,0 +1,3956 @@
+{
+  "2022": {
+    "sommaire": [
+      {
+        "nom": "Sommaire",
+        "page": 1
+      },
+      {
+        "nom": "Polynésie 4 mai 2022",
+        "page": 3
+      },
+      {
+        "nom": "Polynésie 5 mai 2022",
+        "page": 7
+      },
+      {
+        "nom": "Métropole 11 mai 2022",
+        "page": 11
+      },
+      {
+        "nom": "Centres étrangers 11 mai 2022",
+        "page": 16
+      },
+      {
+        "nom": "Métropole 12 mai 2022",
+        "page": 21
+      },
+      {
+        "nom": "Centres étrangers 12 mai 2022",
+        "page": 27
+      },
+      {
+        "nom": "Asie 17 mai 2022",
+        "page": 32
+      },
+      {
+        "nom": "Asie 18 mai 2022",
+        "page": 38
+      },
+      {
+        "nom": "Groupe I 18 mai 2022",
+        "page": 43
+      },
+      {
+        "nom": "Amérique du Nord 18 mai 2022",
+        "page": 48
+      },
+      {
+        "nom": "Groupe I 19 mai 2022",
+        "page": 51
+      },
+      {
+        "nom": "Amérique du Nord 19 mai 2022",
+        "page": 56
+      },
+      {
+        "nom": "Polynésie 30 août 2022",
+        "page": 61
+      },
+      {
+        "nom": "Métropole 9 septembre 2022",
+        "page": 66
+      },
+      {
+        "nom": "Métropole 10 septembre 2022",
+        "page": 71
+      },
+      {
+        "nom": "Amérique du Sud 26 septembre 2022",
+        "page": 76
+      },
+      {
+        "nom": "Amérique du Sud 27 septembre 2022",
+        "page": 80
+      },
+      {
+        "nom": "Nouvelle-Calédonie 26 octobre 2022",
+        "page": 84
+      },
+      {
+        "nom": "Nouvelle-Calédonie 27 octobre 2022",
+        "page": 88
+      }
+    ],
+    "exercices": [
+      {
+        "page": 1,
+        "themes": [
+          "sommaire"
+        ],
+        "sujet": "Sommaire"
+      },
+      {
+        "page": 3,
+        "themes": [
+          "fonction logarithme népérien",
+          "limite de suite",
+          "primitive"
+        ],
+        "sujet": "Polynésie 4 mai 2022"
+      },
+      {
+        "page": 4,
+        "themes": [
+          "Python",
+          "convexité",
+          "maximum"
+        ],
+        "sujet": "Polynésie 4 mai 2022"
+      },
+      {
+        "page": 5,
+        "themes": [
+          "Python",
+          "arbre pondéré",
+          "loi binomiale"
+        ],
+        "sujet": "Polynésie 4 mai 2022"
+      },
+      {
+        "page": 6,
+        "themes": [
+          "démonstration par récurrence",
+          "limite de suite",
+          "produit scalaire",
+          "équation de droite",
+          "équation de plan"
+        ],
+        "sujet": "Polynésie 4 mai 2022"
+      },
+      {
+        "page": 7,
+        "themes": [
+          "Q. C. M.",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "primitive",
+          "équation de tangente"
+        ],
+        "sujet": "Polynésie 5 mai 2022"
+      },
+      {
+        "page": 8,
+        "themes": [
+          "arbre pondéré",
+          "inéquation",
+          "loi binomiale"
+        ],
+        "sujet": "Polynésie 5 mai 2022"
+      },
+      {
+        "page": 9,
+        "themes": [
+          "Python",
+          "démonstration par récurrence",
+          "limite de suite"
+        ],
+        "sujet": "Polynésie 5 mai 2022"
+      },
+      {
+        "page": 10,
+        "themes": [
+          "équation de plan"
+        ],
+        "sujet": "Polynésie 5 mai 2022"
+      },
+      {
+        "page": 11,
+        "themes": [
+          "dérivée",
+          "fonction exponentielle",
+          "inéquation",
+          "maximum",
+          "tableau de variations",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Métropole 11 mai 2022"
+      },
+      {
+        "page": 12,
+        "themes": [
+          "démonstration par récurrence",
+          "limite de suite",
+          "produit scalaire",
+          "suite",
+          "suite géométrique",
+          "vecteur directeur",
+          "vecteurs colinéaires",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Métropole 11 mai 2022"
+      },
+      {
+        "page": 13,
+        "themes": [
+          "Python",
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilités",
+          "volume tétraèdre"
+        ],
+        "sujet": "Métropole 11 mai 2022"
+      },
+      {
+        "page": 14,
+        "themes": [
+          "Q. C. M.",
+          "asymptote",
+          "convexité",
+          "pourcentage moyen",
+          "primitive"
+        ],
+        "sujet": "Métropole 11 mai 2022"
+      },
+      {
+        "page": 15,
+        "themes": [
+          "limite de fonction",
+          "équation avec exponentielle"
+        ],
+        "sujet": "Métropole 11 mai 2022"
+      },
+      {
+        "page": 16,
+        "themes": [
+          "Q. C. M.",
+          "convexité",
+          "ensemble de définition",
+          "fonction logarithme népérien",
+          "point d'inflexion",
+          "primitive",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Centres étrangers 11 mai 2022"
+      },
+      {
+        "page": 17,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "inéquation",
+          "produit scalaire",
+          "volume tétraèdre",
+          "équation de droite",
+          "équation de plan",
+          "équation de tangente"
+        ],
+        "sujet": "Centres étrangers 11 mai 2022"
+      },
+      {
+        "page": 18,
+        "themes": [
+          "limite de fonction",
+          "limite de suite",
+          "suite",
+          "tableau de variations",
+          "équation de tangente"
+        ],
+        "sujet": "Centres étrangers 11 mai 2022"
+      },
+      {
+        "page": 19,
+        "themes": [
+          "loi binomiale",
+          "probabilités",
+          "tableau de probabilités",
+          "évènements indépendants"
+        ],
+        "sujet": "Centres étrangers 11 mai 2022"
+      },
+      {
+        "page": 21,
+        "themes": [
+          "arbre pondéré",
+          "probabilités"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 22,
+        "themes": [
+          "Q. C. M.",
+          "convexité",
+          "loi binomiale",
+          "maximum"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 23,
+        "themes": [
+          "suite",
+          "vecteur normal",
+          "volume tétraèdre"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 24,
+        "themes": [
+          "dérivée",
+          "limite de fonction",
+          "maximum",
+          "tableau de variations",
+          "valeurs intermédiaires",
+          "équation de plan"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 25,
+        "themes": [
+          "tangente d'angle"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 26,
+        "themes": [
+          "maximum"
+        ],
+        "sujet": "Métropole 12 mai 2022"
+      },
+      {
+        "page": 27,
+        "themes": [
+          "Q. C. M.",
+          "dérivée"
+        ],
+        "sujet": "Centres étrangers 12 mai 2022"
+      },
+      {
+        "page": 28,
+        "themes": [
+          "convexité",
+          "dérivée seconde",
+          "fonction exponentielle",
+          "limite de fonction",
+          "maximum",
+          "primitive"
+        ],
+        "sujet": "Centres étrangers 12 mai 2022"
+      },
+      {
+        "page": 29,
+        "themes": [
+          "convergence de suite",
+          "convexité",
+          "démonstration par récurrence",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "suite",
+          "tableau de variations",
+          "équation de tangente"
+        ],
+        "sujet": "Centres étrangers 12 mai 2022"
+      },
+      {
+        "page": 30,
+        "themes": [
+          "arbre pondéré",
+          "inéquation",
+          "loi de probabilité",
+          "probabilités",
+          "triangle rectangle",
+          "vecteur normal",
+          "volume tétraèdre"
+        ],
+        "sujet": "Centres étrangers 12 mai 2022"
+      },
+      {
+        "page": 31,
+        "themes": [
+          "espérance"
+        ],
+        "sujet": "Centres étrangers 12 mai 2022"
+      },
+      {
+        "page": 32,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilités",
+          "évènements indépendants"
+        ],
+        "sujet": "Asie 17 mai 2022"
+      },
+      {
+        "page": 33,
+        "themes": [
+          "Python",
+          "convergence de suite",
+          "démonstration par récurrence",
+          "inéquation",
+          "suite",
+          "suite géométrique"
+        ],
+        "sujet": "Asie 17 mai 2022"
+      },
+      {
+        "page": 34,
+        "themes": [
+          "fonction exponentielle",
+          "inéquation",
+          "vecteur normal",
+          "équation de plan"
+        ],
+        "sujet": "Asie 17 mai 2022"
+      },
+      {
+        "page": 35,
+        "themes": [
+          "dérivée",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "volume tétraèdre",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Asie 17 mai 2022"
+      },
+      {
+        "page": 36,
+        "themes": [
+          "convexité",
+          "dérivée",
+          "dérivée seconde",
+          "fonction paire",
+          "lecture graphique",
+          "limite de fonction",
+          "tableau de variations",
+          "valeurs intermédiaires",
+          "équation"
+        ],
+        "sujet": "Asie 17 mai 2022"
+      },
+      {
+        "page": 38,
+        "themes": [
+          "vecteur normal",
+          "volume pyramide",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Asie 18 mai 2022"
+      },
+      {
+        "page": 39,
+        "themes": [
+          "asymptote",
+          "convexité",
+          "dérivée",
+          "dérivée seconde",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "limite de fonction",
+          "maximum",
+          "tableau de variations",
+          "équation"
+        ],
+        "sujet": "Asie 18 mai 2022"
+      },
+      {
+        "page": 40,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale"
+        ],
+        "sujet": "Asie 18 mai 2022"
+      },
+      {
+        "page": 41,
+        "themes": [
+          "convergence de suite",
+          "démonstration par récurrence",
+          "espérance",
+          "limite de suite",
+          "loi de probabilité",
+          "suite"
+        ],
+        "sujet": "Asie 18 mai 2022"
+      },
+      {
+        "page": 42,
+        "themes": [
+          "Python"
+        ],
+        "sujet": "Asie 18 mai 2022"
+      },
+      {
+        "page": 43,
+        "themes": [
+          "arbre pondéré"
+        ],
+        "sujet": "Groupe I 18 mai 2022"
+      },
+      {
+        "page": 44,
+        "themes": [
+          "Q. C. M.",
+          "espérance",
+          "fonction logarithme népérien",
+          "inéquation",
+          "loi binomiale"
+        ],
+        "sujet": "Groupe I 18 mai 2022"
+      },
+      {
+        "page": 45,
+        "themes": [
+          "asymptote",
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "limite de fonction",
+          "point d'inflexion",
+          "suite",
+          "équation de tangente"
+        ],
+        "sujet": "Groupe I 18 mai 2022"
+      },
+      {
+        "page": 46,
+        "themes": [
+          "Python",
+          "démonstration par récurrence",
+          "dérivée",
+          "inéquation",
+          "limite de suite",
+          "suite",
+          "tableau de variations",
+          "valeurs intermédiaires",
+          "équation de plan"
+        ],
+        "sujet": "Groupe I 18 mai 2022"
+      },
+      {
+        "page": 47,
+        "themes": [
+          "plan médiateur",
+          "sphère",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Groupe I 18 mai 2022"
+      },
+      {
+        "page": 48,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "loi de probabilité",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Nord 18 mai 2022"
+      },
+      {
+        "page": 49,
+        "themes": [
+          "Python",
+          "démonstration par récurrence",
+          "inéquation",
+          "limite de suite",
+          "suite convergente",
+          "suite géométrique",
+          "triangle rectangle"
+        ],
+        "sujet": "Amérique du Nord 18 mai 2022"
+      },
+      {
+        "page": 50,
+        "themes": [
+          "Vrai-Faux",
+          "limite de fonction",
+          "mesure d'angle",
+          "point d'inflexion",
+          "tangente à la courbe",
+          "valeurs intermédiaires",
+          "vecteur normal",
+          "volume tétraèdre",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Amérique du Nord 18 mai 2022"
+      },
+      {
+        "page": 51,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "inéquation",
+          "loi binomiale",
+          "évènements indépendants"
+        ],
+        "sujet": "Groupe I 19 mai 2022"
+      },
+      {
+        "page": 52,
+        "themes": [
+          "Q. C. M.",
+          "droites perpendiculaires",
+          "vecteur normal",
+          "volume tétraèdre",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Groupe I 19 mai 2022"
+      },
+      {
+        "page": 53,
+        "themes": [
+          "convexité",
+          "fonction exponentielle",
+          "lecture graphique",
+          "point d'inflexion",
+          "suite",
+          "suite bornée"
+        ],
+        "sujet": "Groupe I 19 mai 2022"
+      },
+      {
+        "page": 54,
+        "themes": [
+          "Python",
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "fonction monotone",
+          "suite",
+          "tableau de variations",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Groupe I 19 mai 2022"
+      },
+      {
+        "page": 55,
+        "themes": [
+          "démonstration par récurrence",
+          "suite convergente"
+        ],
+        "sujet": "Groupe I 19 mai 2022"
+      },
+      {
+        "page": 56,
+        "themes": [
+          "arbre pondéré"
+        ],
+        "sujet": "Amérique du Nord 19 mai 2022"
+      },
+      {
+        "page": 57,
+        "themes": [
+          "démonstration par récurrence",
+          "dérivée",
+          "fonction exponentielle",
+          "fonction polynôme",
+          "inéquation",
+          "limite de suite",
+          "point d'inflexion",
+          "valeurs intermédiaires",
+          "équation de tangente"
+        ],
+        "sujet": "Amérique du Nord 19 mai 2022"
+      },
+      {
+        "page": 58,
+        "themes": [
+          "calcul d'angle",
+          "lecture graphique",
+          "produit scalaire"
+        ],
+        "sujet": "Amérique du Nord 19 mai 2022"
+      },
+      {
+        "page": 59,
+        "themes": [
+          "Q. C. M.",
+          "fonction logarithme népérien",
+          "vecteur normal",
+          "vecteurs orthogonaux",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Amérique du Nord 19 mai 2022"
+      },
+      {
+        "page": 60,
+        "themes": [
+          "dérivée",
+          "fonction logarithme népérien",
+          "probabilités",
+          "équation",
+          "équation de tangente"
+        ],
+        "sujet": "Amérique du Nord 19 mai 2022"
+      },
+      {
+        "page": 61,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilités"
+        ],
+        "sujet": "Polynésie 30 août 2022"
+      },
+      {
+        "page": 62,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction polynôme",
+          "inéquation",
+          "lecture graphique",
+          "limite de suite",
+          "suite"
+        ],
+        "sujet": "Polynésie 30 août 2022"
+      },
+      {
+        "page": 63,
+        "themes": [
+          "Python",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de suite",
+          "suite convergente",
+          "tableau de variations"
+        ],
+        "sujet": "Polynésie 30 août 2022"
+      },
+      {
+        "page": 64,
+        "themes": [
+          "convexité",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "primitive",
+          "équation de tangente"
+        ],
+        "sujet": "Polynésie 30 août 2022"
+      },
+      {
+        "page": 65,
+        "themes": [
+          "vecteur normal",
+          "volume pyramide",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Polynésie 30 août 2022"
+      },
+      {
+        "page": 66,
+        "themes": [
+          "Q. C. M.",
+          "asymptote",
+          "convexité",
+          "fonction exponentielle",
+          "point d'inflexion",
+          "suite"
+        ],
+        "sujet": "Métropole 9 septembre 2022"
+      },
+      {
+        "page": 67,
+        "themes": [
+          "arbre pondéré",
+          "fonction logarithme népérien",
+          "primitive",
+          "probabilités",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Métropole 9 septembre 2022"
+      },
+      {
+        "page": 68,
+        "themes": [
+          "espérance",
+          "loi de probabilité"
+        ],
+        "sujet": "Métropole 9 septembre 2022"
+      },
+      {
+        "page": 69,
+        "themes": [
+          "démonstration par récurrence",
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "suite convergente",
+          "tableau de variations",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Métropole 9 septembre 2022"
+      },
+      {
+        "page": 70,
+        "themes": [
+          "triangle rectangle",
+          "vecteur normal",
+          "volume tétraèdre",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Métropole 9 septembre 2022"
+      },
+      {
+        "page": 71,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "probabilités"
+        ],
+        "sujet": "Métropole 10 septembre 2022"
+      },
+      {
+        "page": 72,
+        "themes": [
+          "Python",
+          "Q. C. M.",
+          "loi binomiale",
+          "suite",
+          "suite arithmétique",
+          "suite géométrique"
+        ],
+        "sujet": "Métropole 10 septembre 2022"
+      },
+      {
+        "page": 73,
+        "themes": [
+          "convexité",
+          "dérivée",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "limite de fonction",
+          "primitive",
+          "tableau de variations",
+          "équation"
+        ],
+        "sujet": "Métropole 10 septembre 2022"
+      },
+      {
+        "page": 74,
+        "themes": [
+          "démonstration par récurrence",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de suite",
+          "suite",
+          "suite convergente",
+          "vecteur directeur"
+        ],
+        "sujet": "Métropole 10 septembre 2022"
+      },
+      {
+        "page": 75,
+        "themes": [
+          "vecteur normal",
+          "volume tétraèdre",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Métropole 10 septembre 2022"
+      },
+      {
+        "page": 76,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale"
+        ],
+        "sujet": "Amérique du Sud 26 septembre 2022"
+      },
+      {
+        "page": 77,
+        "themes": [
+          "Python",
+          "démonstration par récurrence",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "limite de suite",
+          "suite",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Amérique du Sud 26 septembre 2022"
+      },
+      {
+        "page": 78,
+        "themes": [
+          "convexité",
+          "lecture graphique",
+          "produit scalaire",
+          "triangle rectangle",
+          "valeurs intermédiaires",
+          "vecteurs colinéaires",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Amérique du Sud 26 septembre 2022"
+      },
+      {
+        "page": 79,
+        "themes": [
+          "volume tétraèdre",
+          "équation de plan"
+        ],
+        "sujet": "Amérique du Sud 26 septembre 2022"
+      },
+      {
+        "page": 80,
+        "themes": [
+          "arbre pondéré",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Sud 27 septembre 2022"
+      },
+      {
+        "page": 81,
+        "themes": [
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "tableau de variations",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Amérique du Sud 27 septembre 2022"
+      },
+      {
+        "page": 82,
+        "themes": [
+          "convexité",
+          "démonstration par récurrence",
+          "dérivée",
+          "limite de fonction",
+          "limite de suite",
+          "point d'inflexion",
+          "suite",
+          "suite convergente",
+          "suite géométrique",
+          "tableau de variations"
+        ],
+        "sujet": "Amérique du Sud 27 septembre 2022"
+      },
+      {
+        "page": 83,
+        "themes": [
+          "Python",
+          "mesure d'angle",
+          "produit scalaire",
+          "vecteur normal",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Amérique du Sud 27 septembre 2022"
+      },
+      {
+        "page": 84,
+        "themes": [
+          "convexité",
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "point d'inflexion",
+          "tableau de variations",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Nouvelle-Calédonie 26 octobre 2022"
+      },
+      {
+        "page": 85,
+        "themes": [
+          "Python",
+          "démonstration par récurrence",
+          "dérivée",
+          "limite de suite",
+          "suite",
+          "tableau de variations"
+        ],
+        "sujet": "Nouvelle-Calédonie 26 octobre 2022"
+      },
+      {
+        "page": 86,
+        "themes": [
+          "Q. C. M.",
+          "calcul d'angle",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Nouvelle-Calédonie 26 octobre 2022"
+      },
+      {
+        "page": 87,
+        "themes": [
+          "probabilités"
+        ],
+        "sujet": "Nouvelle-Calédonie 26 octobre 2022"
+      },
+      {
+        "page": 88,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "inéquation",
+          "loi binomiale",
+          "probabilités"
+        ],
+        "sujet": "Nouvelle-Calédonie 27 octobre 2022"
+      },
+      {
+        "page": 89,
+        "themes": [
+          "Python",
+          "convexité",
+          "dérivée",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "tableau de variations",
+          "tangente à la courbe",
+          "valeurs intermédiaires"
+        ],
+        "sujet": "Nouvelle-Calédonie 27 octobre 2022"
+      },
+      {
+        "page": 90,
+        "themes": [
+          "Q. C. M.",
+          "lecture graphique",
+          "suite",
+          "vecteur normal",
+          "volume pyramide",
+          "équation de plan",
+          "équation paramétrique de droite"
+        ],
+        "sujet": "Nouvelle-Calédonie 27 octobre 2022"
+      },
+      {
+        "page": 91,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "suite convergente",
+          "suite monotone"
+        ],
+        "sujet": "Nouvelle-Calédonie 27 octobre 2022"
+      },
+      {
+        "page": 92,
+        "themes": [
+          "asymptote",
+          "fonction exponentielle",
+          "primitive"
+        ],
+        "sujet": "Nouvelle-Calédonie 27 octobre 2022"
+      }
+    ]
+  },
+  "2023": {
+    "sommaire": [
+      {
+        "nom": "Sommaire",
+        "page": 1
+      },
+      {
+        "nom": "Centres étrangers J1 13 mars 2023",
+        "page": 3
+      },
+      {
+        "nom": "Polynésie J1 13 mars 2023",
+        "page": 8
+      },
+      {
+        "nom": "Centres étrangers J2 14 mars 2023",
+        "page": 12
+      },
+      {
+        "nom": "Polynésie J2 14 mars 2023",
+        "page": 17
+      },
+      {
+        "nom": "Métropole J1 20 mars 2023",
+        "page": 21
+      },
+      {
+        "nom": "Métropole J2 21 mars 2023",
+        "page": 25
+      },
+      {
+        "nom": "Centres étrangers 2 J1 21 mars 2023",
+        "page": 30
+      },
+      {
+        "nom": "Centres étrangers 2 J2 22 mars 2023",
+        "page": 33
+      },
+      {
+        "nom": "Asie J1 23 mars 2023",
+        "page": 37
+      },
+      {
+        "nom": "Asie J2 24 mars 2023",
+        "page": 43
+      },
+      {
+        "nom": "Amérique du Nord J1 27 mars 2023",
+        "page": 48
+      },
+      {
+        "nom": "La Réunion J1 28 mars 2023",
+        "page": 52
+      },
+      {
+        "nom": "Amérique du Nord J2 28 mars 2023",
+        "page": 56
+      },
+      {
+        "nom": "La Réunion J2 29 mars 2023",
+        "page": 60
+      },
+      {
+        "nom": "Nouvelle-Calédonie J1 28 août 2023",
+        "page": 64
+      },
+      {
+        "nom": "Nouvelle-Calédonie J2 29 août 2023",
+        "page": 68
+      },
+      {
+        "nom": "Polynésie 7 septembre 2023",
+        "page": 72
+      },
+      {
+        "nom": "Métropole J1 11 septembre 2023",
+        "page": 77
+      },
+      {
+        "nom": "Métropole J2 12 septembre 2023",
+        "page": 81
+      },
+      {
+        "nom": "Amérique du Sud J1 26 septembre 2023",
+        "page": 85
+      },
+      {
+        "nom": "Amérique du Sud J2 27 septembre 2023",
+        "page": 90
+      }
+    ],
+    "exercices": [
+      {
+        "page": 3,
+        "themes": [
+          "fonction logarithme népérien",
+          "primitive",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Q. C. M."
+        ],
+        "sujet": "Centres étrangers J1 13 mars 2023"
+      },
+      {
+        "page": 4,
+        "themes": [
+          "probabilités"
+        ],
+        "sujet": "Centres étrangers J1 13 mars 2023"
+      },
+      {
+        "page": 5,
+        "themes": [
+          "arbre pondéré",
+          "démonstration par récurrence",
+          "espérance",
+          "loi binomiale",
+          "limite de suite",
+          "probabilités",
+          "suite",
+          "suite géométrique",
+          "variable aléatoire"
+        ],
+        "sujet": "Centres étrangers J1 13 mars 2023"
+      },
+      {
+        "page": 6,
+        "themes": [
+          "équation de plan",
+          "équation paramétrique de droite",
+          "fonction exponentielle",
+          "géométrie",
+          "triangle rectangle",
+          "vecteur normal",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Centres étrangers J1 13 mars 2023"
+      },
+      {
+        "page": 8,
+        "themes": [
+          "arbre pondéré",
+          "probabilités"
+        ],
+        "sujet": "Polynésie J1 13 mars 2023"
+      },
+      {
+        "page": 9,
+        "themes": [
+          "équation paramétrique de droite",
+          "géométrie",
+          "primitive",
+          "suite convergente",
+          "vecteur directeur",
+          "vecteur normal"
+        ],
+        "sujet": "Polynésie J1 13 mars 2023"
+      },
+      {
+        "page": 10,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "loi binomiale",
+          "primitive",
+          "Python",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Polynésie J1 13 mars 2023"
+      },
+      {
+        "page": 12,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "maximum",
+          "point d'inflexion",
+          "primitive",
+          "Q. C. M."
+        ],
+        "sujet": "Centres étrangers J2 14 mars 2023"
+      },
+      {
+        "page": 13,
+        "themes": [
+          "fonction exponentielle",
+          "géométrie",
+          "loi binomiale",
+          "probabilités"
+        ],
+        "sujet": "Centres étrangers J2 14 mars 2023"
+      },
+      {
+        "page": 14,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "suite convergente",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Centres étrangers J2 14 mars 2023"
+      },
+      {
+        "page": 15,
+        "themes": [
+          "lecture graphique",
+          "probabilités",
+          "produit scalaire",
+          "trigonométrie"
+        ],
+        "sujet": "Centres étrangers J2 14 mars 2023"
+      },
+      {
+        "page": 17,
+        "themes": [
+          "aire de triangle",
+          "arbre pondéré",
+          "probabilités",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Polynésie J2 14 mars 2023"
+      },
+      {
+        "page": 18,
+        "themes": [
+          "droites perpendiculaires",
+          "fonction exponentielle",
+          "géométrie",
+          "loi binomiale",
+          "plans parallèles",
+          "probabilités"
+        ],
+        "sujet": "Polynésie J2 14 mars 2023"
+      },
+      {
+        "page": 19,
+        "themes": [
+          "coefficient directeur",
+          "dérivée",
+          "dérivée seconde",
+          "équation de la tangente",
+          "fonction exponentielle",
+          "loi binomiale",
+          "minimum",
+          "nombre dérivé",
+          "point d'inflexion"
+        ],
+        "sujet": "Polynésie J2 14 mars 2023"
+      },
+      {
+        "page": 20,
+        "themes": [
+          "fonction convexe",
+          "fonction croissante",
+          "suite bornée"
+        ],
+        "sujet": "Polynésie J2 14 mars 2023"
+      },
+      {
+        "page": 21,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Q. C. M."
+        ],
+        "sujet": "Métropole J1 20 mars 2023"
+      },
+      {
+        "page": 22,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "minimum",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Métropole J1 20 mars 2023"
+      },
+      {
+        "page": 23,
+        "themes": [
+          "fonction exponentielle",
+          "géométrie",
+          "probabilités",
+          "Python"
+        ],
+        "sujet": "Métropole J1 20 mars 2023"
+      },
+      {
+        "page": 24,
+        "themes": [
+          "aire de triangle",
+          "équation de plan",
+          "équation paramétrique de droite",
+          "géométrie",
+          "points alignés",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Métropole J1 20 mars 2023"
+      },
+      {
+        "page": 25,
+        "themes": [
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Q. C. M."
+        ],
+        "sujet": "Métropole J2 21 mars 2023"
+      },
+      {
+        "page": 26,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction croissante",
+          "limite de suite",
+          "probabilités"
+        ],
+        "sujet": "Métropole J2 21 mars 2023"
+      },
+      {
+        "page": 27,
+        "themes": [
+          "équation de plan",
+          "équation paramétrique de droite",
+          "géométrie",
+          "probabilités",
+          "Python",
+          "vecteur normal"
+        ],
+        "sujet": "Métropole J2 21 mars 2023"
+      },
+      {
+        "page": 28,
+        "themes": [
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "suite récurrente",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Métropole J2 21 mars 2023"
+      },
+      {
+        "page": 29,
+        "themes": [
+          "fonction convexe",
+          "équation de la tangente",
+          "limite de fonction",
+          "variations de fonction"
+        ],
+        "sujet": "Métropole J2 21 mars 2023"
+      },
+      {
+        "page": 30,
+        "themes": [
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Centres étrangers 2 J1 21 mars 2023"
+      },
+      {
+        "page": 31,
+        "themes": [
+          "arbre pondéré",
+          "dénombrement",
+          "limite de suite",
+          "probabilités",
+          "Q. C. M."
+        ],
+        "sujet": "Centres étrangers 2 J1 21 mars 2023"
+      },
+      {
+        "page": 32,
+        "themes": [
+          "équation de plan",
+          "équation paramétrique de droite",
+          "ensemble de définition",
+          "fonction bornée",
+          "fonction convexe",
+          "fonction croissante",
+          "géométrie",
+          "vecteur normal"
+        ],
+        "sujet": "Centres étrangers 2 J1 21 mars 2023"
+      },
+      {
+        "page": 33,
+        "themes": [
+          "dérivée",
+          "dérivée seconde",
+          "fonction exponentielle",
+          "fonction croissante",
+          "lecture graphique",
+          "limite de fonction"
+        ],
+        "sujet": "Centres étrangers 2 J2 22 mars 2023"
+      },
+      {
+        "page": 34,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction convexe",
+          "limite de suite",
+          "probabilités",
+          "suite convergente"
+        ],
+        "sujet": "Centres étrangers 2 J2 22 mars 2023"
+      },
+      {
+        "page": 35,
+        "themes": [
+          "aire d'un disque",
+          "équation de plan",
+          "espérance",
+          "fonction convexe",
+          "géométrie",
+          "loi binomiale",
+          "probabilités",
+          "points non alignés",
+          "triangle rectangle",
+          "volume d'un cône"
+        ],
+        "sujet": "Centres étrangers 2 J2 22 mars 2023"
+      },
+      {
+        "page": 36,
+        "themes": [
+          "fonction logarithme népérien",
+          "Python"
+        ],
+        "sujet": "Centres étrangers 2 J2 22 mars 2023"
+      },
+      {
+        "page": 37,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "points non alignés",
+          "probabilités",
+          "Python",
+          "suite"
+        ],
+        "sujet": "Asie J1 23 mars 2023"
+      },
+      {
+        "page": 38,
+        "themes": [
+          "aire de triangle",
+          "équation de plan",
+          "équation paramétrique de droite",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "géométrie",
+          "loi binomiale",
+          "points alignés",
+          "produit scalaire",
+          "vecteur normal",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Asie J1 23 mars 2023"
+      },
+      {
+        "page": 39,
+        "themes": [
+          "dérivée",
+          "lecture graphique",
+          "limite de fonction"
+        ],
+        "sujet": "Asie J1 23 mars 2023"
+      },
+      {
+        "page": 40,
+        "themes": [
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Asie J1 23 mars 2023"
+      },
+      {
+        "page": 43,
+        "themes": [
+          "équation de plan",
+          "équation paramétrique de droite",
+          "géométrie",
+          "probabilités",
+          "vecteur normal",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Asie J2 24 mars 2023"
+      },
+      {
+        "page": 44,
+        "themes": [
+          "aire de triangle",
+          "fonction exponentielle",
+          "limite de fonction",
+          "lecture graphique",
+          "probabilités"
+        ],
+        "sujet": "Asie J2 24 mars 2023"
+      },
+      {
+        "page": 64,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 28 août 2023"
+      },
+      {
+        "page": 65,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "loi binomiale",
+          "probabilités",
+          "Python",
+          "suite",
+          "suite géométrique",
+          "variable aléatoire"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 28 août 2023"
+      },
+      {
+        "page": 66,
+        "themes": [
+          "équation de plan",
+          "équation paramétrique de droite",
+          "fonction exponentielle",
+          "géométrie",
+          "probabilités",
+          "Q. C. M.",
+          "vecteur normal"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 28 août 2023"
+      },
+      {
+        "page": 67,
+        "themes": [
+          "dérivée",
+          "dérivée seconde",
+          "fonction croissante",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "nombre dérivé",
+          "maximum"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 28 août 2023"
+      },
+      {
+        "page": 68,
+        "themes": [
+          "aire de triangle",
+          "équation de plan",
+          "équation paramétrique de droite",
+          "géométrie",
+          "probabilités",
+          "vecteur normal",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 29 août 2023"
+      },
+      {
+        "page": 69,
+        "themes": [
+          "asymptote",
+          "convexité",
+          "dérivée",
+          "dérivée seconde",
+          "extremum",
+          "fonction croissante",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "maximum"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 29 août 2023"
+      },
+      {
+        "page": 70,
+        "themes": [
+          "arbre pondéré",
+          "fonction croissante",
+          "limite de suite",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Q. C. M.",
+          "suite",
+          "suite arithmétique",
+          "suite convergente"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 29 août 2023"
+      },
+      {
+        "page": 71,
+        "themes": [
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 29 août 2023"
+      },
+      {
+        "page": 72,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "probabilités",
+          "variable aléatoire"
+        ],
+        "sujet": "Polynésie 7 septembre 2023"
+      },
+      {
+        "page": 73,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "point d'inflexion",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Polynésie 7 septembre 2023"
+      },
+      {
+        "page": 74,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "lecture graphique",
+          "loi binomiale",
+          "suite convergente"
+        ],
+        "sujet": "Polynésie 7 septembre 2023"
+      },
+      {
+        "page": 75,
+        "themes": [
+          "équation paramétrique de droite",
+          "géométrie",
+          "point d'inflexion",
+          "raisonnement par l'absurde",
+          "vecteur directeur"
+        ],
+        "sujet": "Polynésie 7 septembre 2023"
+      },
+      {
+        "page": 76,
+        "themes": [
+          "équation paramétrique de droite",
+          "géométrie",
+          "vecteur directeur",
+          "vecteur normal"
+        ],
+        "sujet": "Polynésie 7 septembre 2023"
+      },
+      {
+        "page": 77,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "loi binomiale",
+          "primitive",
+          "probabilités",
+          "Python",
+          "Q. C. M.",
+          "suite"
+        ],
+        "sujet": "Métropole J1 11 septembre 2023"
+      },
+      {
+        "page": 78,
+        "themes": [
+          "équation de plan",
+          "géométrie",
+          "probabilités"
+        ],
+        "sujet": "Métropole J1 11 septembre 2023"
+      },
+      {
+        "page": 79,
+        "themes": [
+          "arbre pondéré",
+          "fonction croissante",
+          "fonction exponentielle",
+          "limite de suite",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Métropole J1 11 septembre 2023"
+      },
+      {
+        "page": 80,
+        "themes": [
+          "convexité",
+          "fonction croissante",
+          "fonction exponentielle",
+          "point d'inflexion",
+          "suite géométrique"
+        ],
+        "sujet": "Métropole J1 11 septembre 2023"
+      },
+      {
+        "page": 81,
+        "themes": [
+          "fonction exponentielle",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Métropole J2 12 septembre 2023"
+      },
+      {
+        "page": 82,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "variable aléatoire"
+        ],
+        "sujet": "Métropole J2 12 septembre 2023"
+      },
+      {
+        "page": 83,
+        "themes": [
+          "coefficient directeur",
+          "convexité",
+          "dérivée",
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "lecture graphique",
+          "limite de suite",
+          "Python",
+          "variations de fonction"
+        ],
+        "sujet": "Métropole J2 12 septembre 2023"
+      },
+      {
+        "page": 84,
+        "themes": [
+          "calcul d'angle",
+          "fonction exponentielle",
+          "géométrie",
+          "loi binomiale",
+          "produit scalaire",
+          "triangle rectangle"
+        ],
+        "sujet": "Métropole J2 12 septembre 2023"
+      },
+      {
+        "page": 85,
+        "themes": [
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "maximum",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Amérique du Sud J1 26 septembre 2023"
+      },
+      {
+        "page": 86,
+        "themes": [
+          "dérivée",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "maximum",
+          "loi binomiale",
+          "probabilités",
+          "variable aléatoire"
+        ],
+        "sujet": "Amérique du Sud J1 26 septembre 2023"
+      },
+      {
+        "page": 87,
+        "themes": [
+          "arbre pondéré",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Amérique du Sud J1 26 septembre 2023"
+      },
+      {
+        "page": 88,
+        "themes": [
+          "fonction exponentielle",
+          "géométrie",
+          "limite de suite",
+          "loi binomiale",
+          "probabilités",
+          "suite convergente",
+          "triangle rectangle",
+          "variable aléatoire",
+          "vecteur normal"
+        ],
+        "sujet": "Amérique du Sud J1 26 septembre 2023"
+      },
+      {
+        "page": 89,
+        "themes": [
+          "suite géométrique"
+        ],
+        "sujet": "Amérique du Sud J1 26 septembre 2023"
+      },
+      {
+        "page": 90,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Sud J2 27 septembre 2023"
+      },
+      {
+        "page": 91,
+        "themes": [
+          "équation de plan",
+          "géométrie",
+          "probabilités",
+          "suite",
+          "vecteur normal"
+        ],
+        "sujet": "Amérique du Sud J2 27 septembre 2023"
+      },
+      {
+        "page": 92,
+        "themes": [
+          "démonstration par récurrence",
+          "équation paramétrique de droite",
+          "limite de suite",
+          "probabilités",
+          "Python",
+          "suite"
+        ],
+        "sujet": "Amérique du Sud J2 27 septembre 2023"
+      },
+      {
+        "page": 93,
+        "themes": [
+          "convexité",
+          "fonction exponentielle",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Amérique du Sud J2 27 septembre 2023"
+      }
+    ]
+  },
+  "2024": {
+    "sommaire": [
+      {
+        "nom": "Sommaire",
+        "page": 1
+      },
+      {
+        "nom": "Amérique du Nord J1 – 21 mai 2024",
+        "page": 3
+      },
+      {
+        "nom": "Amérique du Nord J2 – 22 mai 2024",
+        "page": 7
+      },
+      {
+        "nom": "Centres étrangers J1 – 5 juin 2024",
+        "page": 11
+      },
+      {
+        "nom": "Centres étrangers J2 – 6 juin 2024",
+        "page": 15
+      },
+      {
+        "nom": "Centres étrangers - Suède – 7 juin 2024",
+        "page": 18
+      },
+      {
+        "nom": "Asie J1 – 10 juin 2024",
+        "page": 22
+      },
+      {
+        "nom": "Asie J2 – 11 juin 2024",
+        "page": 28
+      },
+      {
+        "nom": "Métropole J1 – 19 juin 2024",
+        "page": 33
+      },
+      {
+        "nom": "Métropole J1 secours – 19 juin 2024",
+        "page": 37
+      },
+      {
+        "nom": "Métropole J2 – 20 juin 2024",
+        "page": 41
+      },
+      {
+        "nom": "Métropole J2 dévoilé – 20 juin 2024",
+        "page": 46
+      },
+      {
+        "nom": "Polynésie J1 – 19 juin 2024",
+        "page": 51
+      },
+      {
+        "nom": "Polynésie J2 – 20 juin 2024",
+        "page": 55
+      },
+      {
+        "nom": "Polynésie – 5 septembre 2024",
+        "page": 60
+      },
+      {
+        "nom": "Métropole – 11 septembre 2024",
+        "page": 64
+      },
+      {
+        "nom": "Métropole – 12 septembre 2024",
+        "page": 69
+      },
+      {
+        "nom": "Amérique du Sud J1 – 21 novembre 2024",
+        "page": 74
+      },
+      {
+        "nom": "Amérique du Sud J2 – 22 novembre 2024",
+        "page": 78
+      }
+    ],
+    "exercices": [
+      {
+        "page": 3,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "variable aléatoire"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2024"
+      },
+      {
+        "page": 4,
+        "themes": [
+          "équation de plan",
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Q. C. M.",
+          "représentation paramétrique de droite"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2024"
+      },
+      {
+        "page": 5,
+        "themes": [
+          "convexité",
+          "limite de fonction",
+          "résolution d'équation",
+          "variations de fonction"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2024"
+      },
+      {
+        "page": 6,
+        "themes": [
+          "cosinus",
+          "fonction exponentielle",
+          "limite de suite",
+          "Python",
+          "sinus",
+          "suite"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2024"
+      },
+      {
+        "page": 7,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Nord J2 – 22 mai 2024"
+      },
+      {
+        "page": 8,
+        "themes": [
+          "équation de plan",
+          "géométrie dans l'espace",
+          "intégrale",
+          "plans parallèles",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "vecteur normal"
+        ],
+        "sujet": "Amérique du Nord J2 – 22 mai 2024"
+      },
+      {
+        "page": 9,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction logarithme népérien",
+          "limite de suite",
+          "primitive",
+          "Python",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Amérique du Nord J2 – 22 mai 2024"
+      },
+      {
+        "page": 11,
+        "themes": [
+          "arbre pondéré",
+          "probabilités",
+          "variations de fonction"
+        ],
+        "sujet": "Centres étrangers J1 – 5 juin 2024"
+      },
+      {
+        "page": 12,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "limite de suite",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "Python",
+          "résolution d'équation",
+          "suite",
+          "suite convergente"
+        ],
+        "sujet": "Centres étrangers J1 – 5 juin 2024"
+      },
+      {
+        "page": 13,
+        "themes": [
+          "cosinus",
+          "équation de plan",
+          "géométrie dans l'espace",
+          "intégrale",
+          "points alignés",
+          "représentation paramétrique de droite",
+          "sinus",
+          "vecteur normal"
+        ],
+        "sujet": "Centres étrangers J1 – 5 juin 2024"
+      },
+      {
+        "page": 14,
+        "themes": [
+          "distance d'un point à un plan",
+          "droites sécantes",
+          "points coplanaires",
+          "projeté orthogonal"
+        ],
+        "sujet": "Centres étrangers J1 – 5 juin 2024"
+      },
+      {
+        "page": 15,
+        "themes": [
+          "arbre pondéré",
+          "combinatoire",
+          "dénombrement",
+          "espérance",
+          "fonction exponentielle",
+          "fonction croissante",
+          "limite de fonction",
+          "loi binomiale"
+        ],
+        "sujet": "Centres étrangers J2 – 6 juin 2024"
+      },
+      {
+        "page": 16,
+        "themes": [
+          "cube",
+          "équation de plan",
+          "équation de tangente",
+          "géométrie dans l'espace",
+          "résolution d'équation",
+          "tableau de variations",
+          "vecteur normal"
+        ],
+        "sujet": "Centres étrangers J2 – 6 juin 2024"
+      },
+      {
+        "page": 17,
+        "themes": [
+          "aire de triangle",
+          "démonstration par récurrence",
+          "fonction croissante",
+          "fonction racine carrée",
+          "projeté orthogonal",
+          "Python",
+          "suite convergente"
+        ],
+        "sujet": "Centres étrangers J2 – 6 juin 2024"
+      },
+      {
+        "page": 18,
+        "themes": [
+          "arbre pondéré",
+          "droites perpendiculaires",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "géométrie dans l'espace",
+          "Python"
+        ],
+        "sujet": "Centres étrangers - Suède – 7 juin 2024"
+      },
+      {
+        "page": 19,
+        "themes": [
+          "arbre pondéré",
+          "coefficient directeur",
+          "espérance",
+          "fonction croissante",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "suite",
+          "suite géométrique",
+          "variable aléatoire"
+        ],
+        "sujet": "Centres étrangers - Suède – 7 juin 2024"
+      },
+      {
+        "page": 20,
+        "themes": [
+          "fonction exponentielle",
+          "géométrie dans l'espace",
+          "intégrale",
+          "intégration par parties",
+          "lecture graphique",
+          "résolution d'équation",
+          "suite bornée",
+          "tableau de variations"
+        ],
+        "sujet": "Centres étrangers - Suède – 7 juin 2024"
+      },
+      {
+        "page": 23,
+        "themes": [
+          "équation différentielle",
+          "espérance",
+          "intégrale",
+          "lecture graphique",
+          "primitive",
+          "tableau de variations"
+        ],
+        "sujet": "Asie J1 – 10 juin 2024"
+      },
+      {
+        "page": 24,
+        "themes": [
+          "aire de trapèze",
+          "droites non coplanaires",
+          "droites sécantes",
+          "équation de plan",
+          "géométrie dans l'espace",
+          "points alignés",
+          "points coplanaires",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "suite convergente",
+          "vecteur normal"
+        ],
+        "sujet": "Asie J1 – 10 juin 2024"
+      },
+      {
+        "page": 25,
+        "themes": [
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "volume de pyramide"
+        ],
+        "sujet": "Asie J1 – 10 juin 2024"
+      },
+      {
+        "page": 26,
+        "themes": [
+          "algorithme",
+          "arbre pondéré",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Python",
+          "suite",
+          "suite géométrique"
+        ],
+        "sujet": "Asie J1 – 10 juin 2024"
+      },
+      {
+        "page": 28,
+        "themes": [
+          "extremum",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "suite récurrente",
+          "théorème des valeurs intermédiaires",
+          "valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Asie J2 – 11 juin 2024"
+      },
+      {
+        "page": 29,
+        "themes": [
+          "arbre pondéré",
+          "droite et plan parallèles",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "plans parallèles",
+          "probabilité conditionnelle",
+          "probabilités",
+          "suite"
+        ],
+        "sujet": "Asie J2 – 11 juin 2024"
+      },
+      {
+        "page": 30,
+        "themes": [
+          "algorithme",
+          "démonstration par récurrence",
+          "équation différentielle",
+          "limite de suite",
+          "suite",
+          "Vrai-Faux"
+        ],
+        "sujet": "Asie J2 – 11 juin 2024"
+      },
+      {
+        "page": 31,
+        "themes": [
+          "aire de triangle",
+          "convexité",
+          "dénombrement",
+          "équation différentielle",
+          "fonction convexe",
+          "géométrie dans l'espace",
+          "norme de vecteur",
+          "points coplanaires",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "vecteur normal"
+        ],
+        "sujet": "Asie J2 – 11 juin 2024"
+      },
+      {
+        "page": 32,
+        "themes": [
+          "cosinus",
+          "droites perpendiculaires",
+          "ensemble de définition",
+          "équation de plan",
+          "géométrie dans l'espace",
+          "sinus"
+        ],
+        "sujet": "Asie J2 – 11 juin 2024"
+      },
+      {
+        "page": 33,
+        "themes": [
+          "équation différentielle",
+          "espérance",
+          "fonction croissante",
+          "fonction exponentielle",
+          "lecture graphique",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "suite convergente",
+          "Vrai-Faux"
+        ],
+        "sujet": "Métropole J1 – 19 juin 2024"
+      },
+      {
+        "page": 34,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "limite de fonction",
+          "probabilité conditionnelle",
+          "probabilités",
+          "variable aléatoire"
+        ],
+        "sujet": "Métropole J1 – 19 juin 2024"
+      },
+      {
+        "page": 35,
+        "themes": [
+          "équation de plan",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "géométrie dans l'espace",
+          "limite de fonction",
+          "plan orthogonal",
+          "plan médiateur",
+          "points non alignés",
+          "probabilité conditionnelle",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "résolution d'équation",
+          "suite convergente",
+          "vecteur normal",
+          "volume de pyramide"
+        ],
+        "sujet": "Métropole J1 – 19 juin 2024"
+      },
+      {
+        "page": 36,
+        "themes": [
+          "calcul d'aire",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "intégrale",
+          "probabilités",
+          "Python",
+          "variations de fonction"
+        ],
+        "sujet": "Métropole J1 – 19 juin 2024"
+      },
+      {
+        "page": 37,
+        "themes": [
+          "espérance",
+          "fonction logarithme népérien",
+          "géométrie dans l'espace",
+          "loi binomiale",
+          "plan orthogonal",
+          "probabilité conditionnelle",
+          "représentation paramétrique de droite",
+          "somme de variables aléatoires"
+        ],
+        "sujet": "Métropole J1 secours – 19 juin 2024"
+      },
+      {
+        "page": 38,
+        "themes": [
+          "espérance",
+          "fonction convexe",
+          "fonction logarithme népérien",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "plan orthogonal",
+          "probabilité conditionnelle",
+          "volume de pyramide"
+        ],
+        "sujet": "Métropole J1 secours – 19 juin 2024"
+      },
+      {
+        "page": 39,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "résolution d'équation",
+          "suite convergente",
+          "Python"
+        ],
+        "sujet": "Métropole J1 secours – 19 juin 2024"
+      },
+      {
+        "page": 40,
+        "themes": [
+          "espérance",
+          "fonction exponentielle",
+          "fonction croissante",
+          "intégrale",
+          "limite de fonction",
+          "loi binomiale",
+          "point d'inflexion",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Python"
+        ],
+        "sujet": "Métropole J1 secours – 19 juin 2024"
+      },
+      {
+        "page": 41,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "représentation paramétrique de droite",
+          "suite",
+          "variable aléatoire"
+        ],
+        "sujet": "Métropole J2 – 20 juin 2024"
+      },
+      {
+        "page": 42,
+        "themes": [
+          "démonstration par récurrence",
+          "espérance",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "Python"
+        ],
+        "sujet": "Métropole J2 – 20 juin 2024"
+      },
+      {
+        "page": 43,
+        "themes": [
+          "équation différentielle",
+          "fonction exponentielle",
+          "géométrie dans l'espace",
+          "intégrale",
+          "lecture graphique",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Métropole J2 – 20 juin 2024"
+      },
+      {
+        "page": 44,
+        "themes": [
+          "équation différentielle",
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "point d'inflexion",
+          "probabilité conditionnelle",
+          "probabilités",
+          "résolution d'équation"
+        ],
+        "sujet": "Métropole J2 – 20 juin 2024"
+      },
+      {
+        "page": 45,
+        "themes": [
+          "droites perpendiculaires",
+          "droites sécantes",
+          "fonction logarithme népérien",
+          "géométrie dans l'espace",
+          "intégration par parties",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "points coplanaires",
+          "Vrai-Faux"
+        ],
+        "sujet": "Métropole J2 – 20 juin 2024"
+      },
+      {
+        "page": 46,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "représentation paramétrique de droite"
+        ],
+        "sujet": "Métropole J2 dévoilé – 20 juin 2024"
+      },
+      {
+        "page": 47,
+        "themes": [
+          "démonstration par récurrence",
+          "géométrie dans l'espace",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "représentation paramétrique de droite",
+          "vecteur normal",
+          "Vrai-Faux"
+        ],
+        "sujet": "Métropole J2 dévoilé – 20 juin 2024"
+      },
+      {
+        "page": 48,
+        "themes": [
+          "droites coplanaires",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Python"
+        ],
+        "sujet": "Métropole J2 dévoilé – 20 juin 2024"
+      },
+      {
+        "page": 49,
+        "themes": [
+          "fonction convexe",
+          "fonction croissante",
+          "fonction exponentielle",
+          "intégrale",
+          "lecture graphique",
+          "nombre dérivé",
+          "point d'inflexion",
+          "primitive"
+        ],
+        "sujet": "Métropole J2 dévoilé – 20 juin 2024"
+      },
+      {
+        "page": 50,
+        "themes": [
+          "convexité",
+          "fonction convexe",
+          "fonction croissante",
+          "fonction exponentielle",
+          "intégrale",
+          "intégration par parties",
+          "lecture graphique",
+          "limite de fonction",
+          "point d'inflexion",
+          "primitive",
+          "tableau de variations"
+        ],
+        "sujet": "Métropole J2 dévoilé – 20 juin 2024"
+      },
+      {
+        "page": 51,
+        "themes": [
+          "équation de plan",
+          "représentation paramétrique de droite",
+          "plan médiateur",
+          "probabilité conditionnelle",
+          "vecteur normal",
+          "Vrai-Faux"
+        ],
+        "sujet": "Polynésie J1 – 19 juin 2024"
+      },
+      {
+        "page": 52,
+        "themes": [
+          "fonction exponentielle",
+          "fonction croissante",
+          "intégrale",
+          "lecture graphique",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "valeur moyenne"
+        ],
+        "sujet": "Polynésie J1 – 19 juin 2024"
+      },
+      {
+        "page": 53,
+        "themes": [
+          "arbre pondéré",
+          "équation différentielle",
+          "équation différentielle homogène",
+          "intégrale",
+          "intégration par parties",
+          "loi de probabilité",
+          "primitive",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Polynésie J1 – 19 juin 2024"
+      },
+      {
+        "page": 54,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction croissante",
+          "limite de fonction",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "suite convergente",
+          "suite"
+        ],
+        "sujet": "Polynésie J1 – 19 juin 2024"
+      },
+      {
+        "page": 55,
+        "themes": [
+          "arbre pondéré",
+          "fonction logarithme népérien",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Polynésie J2 – 20 juin 2024"
+      },
+      {
+        "page": 56,
+        "themes": [
+          "combinatoire",
+          "équation différentielle",
+          "intégrale",
+          "probabilité conditionnelle",
+          "Q. C. M."
+        ],
+        "sujet": "Polynésie J2 – 20 juin 2024"
+      },
+      {
+        "page": 57,
+        "themes": [
+          "démonstration par récurrence",
+          "géométrie dans l'espace",
+          "Python"
+        ],
+        "sujet": "Polynésie J2 – 20 juin 2024"
+      },
+      {
+        "page": 58,
+        "themes": [
+          "intégration par parties",
+          "limite de fonction",
+          "minimum",
+          "points alignés",
+          "primitive",
+          "vecteur normal"
+        ],
+        "sujet": "Polynésie J2 – 20 juin 2024"
+      },
+      {
+        "page": 59,
+        "themes": [
+          "représentation paramétrique de droite",
+          "vecteur directeur"
+        ],
+        "sujet": "Polynésie J2 – 20 juin 2024"
+      },
+      {
+        "page": 60,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "arbre pondéré",
+          "espérance",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Polynésie – 5 septembre 2024"
+      },
+      {
+        "page": 61,
+        "themes": [
+          "équation différentielle",
+          "intégration par parties",
+          "lecture graphique",
+          "primitive"
+        ],
+        "sujet": "Polynésie – 5 septembre 2024"
+      },
+      {
+        "page": 62,
+        "themes": [
+          "démonstration par récurrence",
+          "géométrie dans l'espace",
+          "Python",
+          "suite"
+        ],
+        "sujet": "Polynésie – 5 septembre 2024"
+      },
+      {
+        "page": 63,
+        "themes": [
+          "équation de plan",
+          "vecteur normal"
+        ],
+        "sujet": "Polynésie – 5 septembre 2024"
+      },
+      {
+        "page": 64,
+        "themes": [
+          "équation de plan",
+          "géométrie dans l'espace",
+          "représentation paramétrique de droite"
+        ],
+        "sujet": "Métropole – 11 septembre 2024"
+      },
+      {
+        "page": 65,
+        "themes": [
+          "fonction logarithme népérien",
+          "intégration par parties",
+          "probabilité conditionnelle",
+          "volume de pyramide"
+        ],
+        "sujet": "Métropole – 11 septembre 2024"
+      },
+      {
+        "page": 66,
+        "themes": [
+          "fonction logarithme népérien",
+          "lecture graphique",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "Python",
+          "résolution d'équation",
+          "tableau de variations"
+        ],
+        "sujet": "Métropole – 11 septembre 2024"
+      },
+      {
+        "page": 67,
+        "themes": [
+          "espérance",
+          "probabilité conditionnelle",
+          "probabilités",
+          "variable aléatoire"
+        ],
+        "sujet": "Métropole – 11 septembre 2024"
+      },
+      {
+        "page": 68,
+        "themes": [
+          "géométrie dans l'espace",
+          "variable aléatoire"
+        ],
+        "sujet": "Métropole – 11 septembre 2024"
+      },
+      {
+        "page": 69,
+        "themes": [
+          "aire de triangle",
+          "équation de plan",
+          "géométrie dans l'espace",
+          "probabilité conditionnelle",
+          "probabilités",
+          "vecteur normal"
+        ],
+        "sujet": "Métropole – 12 septembre 2024"
+      },
+      {
+        "page": 70,
+        "themes": [
+          "arbre pondéré",
+          "probabilité conditionnelle",
+          "probabilités",
+          "volume de pyramide"
+        ],
+        "sujet": "Métropole – 12 septembre 2024"
+      },
+      {
+        "page": 71,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction exponentielle",
+          "limite de suite",
+          "loi binomiale",
+          "probabilités",
+          "suite convergente"
+        ],
+        "sujet": "Métropole – 12 septembre 2024"
+      },
+      {
+        "page": 72,
+        "themes": [
+          "asymptote",
+          "calcul de dérivée",
+          "convexité",
+          "équation différentielle",
+          "fonction exponentielle",
+          "point d'inflexion",
+          "primitive"
+        ],
+        "sujet": "Métropole – 12 septembre 2024"
+      },
+      {
+        "page": 73,
+        "themes": [
+          "fonction exponentielle",
+          "fonction logarithme népérien",
+          "intégrale",
+          "loi binomiale",
+          "suite convergente"
+        ],
+        "sujet": "Métropole – 12 septembre 2024"
+      },
+      {
+        "page": 74,
+        "themes": [
+          "équation différentielle",
+          "loi binomiale",
+          "probabilités",
+          "Python",
+          "résolution d'équation",
+          "tableau de variations"
+        ],
+        "sujet": "Amérique du Sud J1 – 21 novembre 2024"
+      },
+      {
+        "page": 75,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "suite",
+          "suite arithmétique",
+          "suite décroissante"
+        ],
+        "sujet": "Amérique du Sud J1 – 21 novembre 2024"
+      },
+      {
+        "page": 76,
+        "themes": [
+          "arbre pondéré",
+          "combinaison",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "suite",
+          "Vrai-Faux"
+        ],
+        "sujet": "Amérique du Sud J1 – 21 novembre 2024"
+      },
+      {
+        "page": 77,
+        "themes": [
+          "droites non coplanaires",
+          "fonction exponentielle",
+          "représentation paramétrique de droite",
+          "probabilité conditionnelle",
+          "vecteur directeur"
+        ],
+        "sujet": "Amérique du Sud J1 – 21 novembre 2024"
+      },
+      {
+        "page": 78,
+        "themes": [
+          "équation de plan",
+          "géométrie dans l'espace",
+          "plans sécants",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Sud J2 – 22 novembre 2024"
+      },
+      {
+        "page": 79,
+        "themes": [
+          "équation différentielle",
+          "fonction exponentielle",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Python",
+          "suite",
+          "suite convergente",
+          "suite décroissante",
+          "Vrai-Faux"
+        ],
+        "sujet": "Amérique du Sud J2 – 22 novembre 2024"
+      },
+      {
+        "page": 80,
+        "themes": [
+          "coefficient directeur",
+          "fonction exponentielle",
+          "fonction croissante",
+          "intégrale",
+          "intégration par parties",
+          "limite de fonction",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "variations de fonction"
+        ],
+        "sujet": "Amérique du Sud J2 – 22 novembre 2024"
+      },
+      {
+        "page": 81,
+        "themes": [
+          "distance d'un point à un plan",
+          "équation de plan",
+          "géométrie dans l'espace",
+          "représentation paramétrique de droite",
+          "vecteur normal",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Amérique du Sud J2 – 22 novembre 2024"
+      }
+    ]
+  },
+  "2025": {
+    "sommaire": [
+      {
+        "nom": "Sommaire",
+        "page": 1
+      },
+      {
+        "nom": "Amérique du Nord J1 – 21 mai 2025",
+        "page": 3
+      },
+      {
+        "nom": "Amérique du Nord J2 – 22 mai 2025",
+        "page": 9
+      },
+      {
+        "nom": "Amérique du Nord J2 (secours) – 22 mai 2025",
+        "page": 14
+      },
+      {
+        "nom": "Asie J1 – 11 juin 2025",
+        "page": 18
+      },
+      {
+        "nom": "Asie J2 – 12 juin 2025",
+        "page": 22
+      },
+      {
+        "nom": "Centres étrangers J1 – 12 juin 2025",
+        "page": 27
+      },
+      {
+        "nom": "Centres étrangers J2 – 13 juin 2025",
+        "page": 32
+      },
+      {
+        "nom": "Métropole J1 – 17 juin 2025",
+        "page": 36
+      },
+      {
+        "nom": "Polynésie J1 – 17 juin 2025",
+        "page": 42
+      },
+      {
+        "nom": "Métropole J2 – 18 juin 2025",
+        "page": 48
+      },
+      {
+        "nom": "Polynésie J2 – 18 juin 2025",
+        "page": 54
+      },
+      {
+        "nom": "Polynésie – 2 septembre 2025",
+        "page": 59
+      },
+      {
+        "nom": "Asie – 5 septembre 2025",
+        "page": 65
+      },
+      {
+        "nom": "Métropole Amérique du Nord J1 – 9 septembre 2025",
+        "page": 69
+      },
+      {
+        "nom": "Métropole J2 – 10 septembre 2025",
+        "page": 74
+      },
+      {
+        "nom": "Amérique du Sud J1 – 13 novembre 2025",
+        "page": 79
+      },
+      {
+        "nom": "Amérique du Sud J2 – 14 novembre 2025",
+        "page": 83
+      },
+      {
+        "nom": "Nouvelle-Calédonie J1 – 20 novembre 2025",
+        "page": 88
+      },
+      {
+        "nom": "Nouvelle-Calédonie J2 – 21 novembre 2025",
+        "page": 92
+      }
+    ],
+    "exercices": [
+      {
+        "page": 3,
+        "themes": [
+          "arbre pondéré",
+          "probabilités",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 4,
+        "themes": [
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 5,
+        "themes": [
+          "démonstration par récurrence",
+          "limite de suite",
+          "suite",
+          "Python"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 6,
+        "themes": [
+          "calcul d'angle",
+          "calcul de distance",
+          "droites non coplanaires",
+          "représentation paramétrique de droite",
+          "Vrai–Faux"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 7,
+        "themes": [
+          "équation de tangente",
+          "équation différentielle",
+          "lecture graphique"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 8,
+        "themes": [
+          "calcul d'aire",
+          "calcul de dérivée",
+          "fonction exponentielle",
+          "limite de fonction",
+          "signe d'une fonction"
+        ],
+        "sujet": "Amérique du Nord J1 – 21 mai 2025"
+      },
+      {
+        "page": 14,
+        "themes": [
+          "calcul d'aire",
+          "calcul de dérivée",
+          "convexité",
+          "extremum",
+          "intégration par parties",
+          "limite de fonction",
+          "Vrai–Faux"
+        ],
+        "sujet": "Amérique du Nord J2 (secours) – 22 mai 2025"
+      },
+      {
+        "page": 15,
+        "themes": [
+          "arbre pondéré",
+          "droite et plan orthogonaux",
+          "droite et plan parallèles",
+          "droites sécantes",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "Vrai–Faux"
+        ],
+        "sujet": "Amérique du Nord J2 (secours) – 22 mai 2025"
+      },
+      {
+        "page": 16,
+        "themes": [
+          "loi binomiale",
+          "suite",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Amérique du Nord J2 (secours) – 22 mai 2025"
+      },
+      {
+        "page": 17,
+        "themes": [
+          "démonstration par récurrence",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Amérique du Nord J2 (secours) – 22 mai 2025"
+      },
+      {
+        "page": 18,
+        "themes": [
+          "droites parallèles",
+          "géométrie dans l'espace",
+          "points coplanaires",
+          "projeté orthogonal",
+          "vecteur normal"
+        ],
+        "sujet": "Asie J1 – 11 juin 2025"
+      },
+      {
+        "page": 19,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "arbre pondéré",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "suite",
+          "variance"
+        ],
+        "sujet": "Asie J1 – 11 juin 2025"
+      },
+      {
+        "page": 20,
+        "themes": [
+          "suite croissante",
+          "Python"
+        ],
+        "sujet": "Asie J1 – 11 juin 2025"
+      },
+      {
+        "page": 21,
+        "themes": [
+          "calcul d'intégrale",
+          "calcul de dérivée",
+          "convexité",
+          "fonction exponentielle",
+          "limite de fonction",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Asie J1 – 11 juin 2025"
+      },
+      {
+        "page": 22,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Asie J2 – 12 juin 2025"
+      },
+      {
+        "page": 23,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "limite de suite",
+          "suite",
+          "suite géométrique",
+          "Python"
+        ],
+        "sujet": "Asie J2 – 12 juin 2025"
+      },
+      {
+        "page": 24,
+        "themes": [
+          "démonstration par récurrence",
+          "droite et plan orthogonaux",
+          "droites non coplanaires",
+          "droites sécantes",
+          "géométrie dans l'espace",
+          "points coplanaires",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "suite convergente"
+        ],
+        "sujet": "Asie J2 – 12 juin 2025"
+      },
+      {
+        "page": 25,
+        "themes": [
+          "équation différentielle",
+          "fonction exponentielle",
+          "lecture graphique",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Asie J2 – 12 juin 2025"
+      },
+      {
+        "page": 26,
+        "themes": [
+          "intégration par parties"
+        ],
+        "sujet": "Asie J2 – 12 juin 2025"
+      },
+      {
+        "page": 27,
+        "themes": [
+          "arbre pondéré",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Centres étrangers J1 – 12 juin 2025"
+      },
+      {
+        "page": 28,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "droites non coplanaires",
+          "droites parallèles",
+          "droites perpendiculaires",
+          "droites sécantes",
+          "espérance",
+          "inégalité de Bienaymé-Tchebychev",
+          "limite de fonction",
+          "somme de variables aléatoires",
+          "variance"
+        ],
+        "sujet": "Centres étrangers J1 – 12 juin 2025"
+      },
+      {
+        "page": 29,
+        "themes": [
+          "calcul d'angle",
+          "calcul de dérivée",
+          "droite et plan parallèles",
+          "fonction croissante",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "plans parallèles",
+          "plans perpendiculaires",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction",
+          "Python"
+        ],
+        "sujet": "Centres étrangers J1 – 12 juin 2025"
+      },
+      {
+        "page": 30,
+        "themes": [
+          "démonstration par récurrence",
+          "équation différentielle",
+          "limite de suite",
+          "suite"
+        ],
+        "sujet": "Centres étrangers J1 – 12 juin 2025"
+      },
+      {
+        "page": 32,
+        "themes": [
+          "démonstration par récurrence",
+          "fonction croissante",
+          "limite de suite",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Centres étrangers J2 – 13 juin 2025"
+      },
+      {
+        "page": 33,
+        "themes": [
+          "calcul de dérivée",
+          "coefficient directeur de droite",
+          "fonction exponentielle",
+          "lecture graphique",
+          "Python"
+        ],
+        "sujet": "Centres étrangers J2 – 13 juin 2025"
+      },
+      {
+        "page": 34,
+        "themes": [
+          "arrangements et combinaisons",
+          "limite de fonction",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Centres étrangers J2 – 13 juin 2025"
+      },
+      {
+        "page": 35,
+        "themes": [
+          "équation de plan",
+          "espérance",
+          "loi binomiale",
+          "plans perpendiculaires",
+          "points non alignés",
+          "probabilité conditionnelle",
+          "vecteur et plan orthogonaux"
+        ],
+        "sujet": "Centres étrangers J2 – 13 juin 2025"
+      },
+      {
+        "page": 36,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "probabilités"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 37,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "espérance",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "somme de variables aléatoires"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 38,
+        "themes": [
+          "convexité",
+          "équation de tangente",
+          "fonction logarithme népérien",
+          "géométrie dans l'espace",
+          "lecture graphique",
+          "nombre dérivé"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 39,
+        "themes": [
+          "calcul d'aire",
+          "calcul de limite",
+          "convexité",
+          "équation de tangente",
+          "équation différentielle",
+          "équation du second degré",
+          "géométrie dans l'espace",
+          "intégration par parties",
+          "limite de fonction",
+          "vecteur normal",
+          "Vrai–Faux"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 40,
+        "themes": [
+          "distance d'un point à une droite",
+          "droites non coplanaires",
+          "espérance",
+          "loi binomiale",
+          "Python"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 41,
+        "themes": [
+          "équation différentielle",
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "suite"
+        ],
+        "sujet": "Métropole J1 – 17 juin 2025"
+      },
+      {
+        "page": 42,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Polynésie J1 – 17 juin 2025"
+      },
+      {
+        "page": 43,
+        "themes": [
+          "géométrie dans l'espace",
+          "inégalité de concentration",
+          "représentation paramétrique de droite",
+          "somme de variables aléatoires"
+        ],
+        "sujet": "Polynésie J1 – 17 juin 2025"
+      },
+      {
+        "page": 44,
+        "themes": [
+          "calcul de dérivée",
+          "équation différentielle",
+          "fonction exponentielle",
+          "représentation paramétrique de droite"
+        ],
+        "sujet": "Polynésie J1 – 17 juin 2025"
+      },
+      {
+        "page": 45,
+        "themes": [
+          "calcul d'angle",
+          "convexité",
+          "droites perpendiculaires",
+          "espérance",
+          "intégration par parties",
+          "lecture graphique",
+          "limite de suite",
+          "suite convergente",
+          "Vrai–Faux"
+        ],
+        "sujet": "Polynésie J1 – 17 juin 2025"
+      },
+      {
+        "page": 46,
+        "themes": [
+          "calcul d'angle",
+          "combinatoire",
+          "convexité",
+          "équation différentielle",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Polynésie J1 – 17 juin 2025"
+      },
+      {
+        "page": 48,
+        "themes": [
+          "arbre pondéré",
+          "démonstration par récurrence",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 49,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "droites sécantes",
+          "inégalité de Bienaymé-Tchebychev",
+          "représentation paramétrique de droite",
+          "vecteur normal"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 50,
+        "themes": [
+          "démonstration par récurrence",
+          "distance point-plan",
+          "points coplanaires",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "suite convergente",
+          "Vrai–Faux"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 51,
+        "themes": [
+          "lecture graphique",
+          "signe d'une fonction"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 52,
+        "themes": [
+          "équation différentielle",
+          "lecture graphique"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 53,
+        "themes": [
+          "équation différentielle homogène",
+          "équation différentielle",
+          "limite de fonction",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Métropole J2 – 18 juin 2025"
+      },
+      {
+        "page": 54,
+        "themes": [
+          "arbre pondéré",
+          "démonstration par récurrence",
+          "probabilités",
+          "suite"
+        ],
+        "sujet": "Polynésie J2 – 18 juin 2025"
+      },
+      {
+        "page": 55,
+        "themes": [
+          "arbre pondéré",
+          "fonction logarithme népérien",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Polynésie J2 – 18 juin 2025"
+      },
+      {
+        "page": 56,
+        "themes": [
+          "calcul de dérivée",
+          "coefficient directeur de droite",
+          "convexité",
+          "combinatoire",
+          "équation différentielle",
+          "limite de fonction",
+          "variations de fonction"
+        ],
+        "sujet": "Polynésie J2 – 18 juin 2025"
+      },
+      {
+        "page": 57,
+        "themes": [
+          "calcul d'aire",
+          "droite et plan orthogonaux",
+          "géométrie dans l'espace",
+          "n-uplets",
+          "points coplanaires",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "volume de tétraèdre",
+          "Vrai–Faux"
+        ],
+        "sujet": "Polynésie J2 – 18 juin 2025"
+      },
+      {
+        "page": 58,
+        "themes": [
+          "équation différentielle",
+          "intégration par parties",
+          "suite divergente"
+        ],
+        "sujet": "Polynésie J2 – 18 juin 2025"
+      },
+      {
+        "page": 60,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "inégalité de Bienaymé-Tchebychev",
+          "arbre pondéré",
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle"
+        ],
+        "sujet": "Polynésie – 2 septembre 2025"
+      },
+      {
+        "page": 62,
+        "themes": [
+          "démonstration par récurrence",
+          "géométrie dans l'espace",
+          "Python"
+        ],
+        "sujet": "Polynésie – 2 septembre 2025"
+      },
+      {
+        "page": 65,
+        "themes": [
+          "calcul de limite",
+          "convexité",
+          "équation différentielle",
+          "fonction logarithme népérien",
+          "théorème des valeurs intermédiaires",
+          "Vrai–Faux"
+        ],
+        "sujet": "Asie – 5 septembre 2025"
+      },
+      {
+        "page": 66,
+        "themes": [
+          "équation de droite",
+          "espérance",
+          "intersection de droites",
+          "loi binomiale",
+          "points alignés",
+          "probabilités",
+          "vecteur normal"
+        ],
+        "sujet": "Asie – 5 septembre 2025"
+      },
+      {
+        "page": 67,
+        "themes": [
+          "arbre pondéré",
+          "espérance",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Asie – 5 septembre 2025"
+      },
+      {
+        "page": 68,
+        "themes": [
+          "démonstration par récurrence",
+          "limite de suite",
+          "suite convergente",
+          "suite géométrique"
+        ],
+        "sujet": "Asie – 5 septembre 2025"
+      },
+      {
+        "page": 69,
+        "themes": [
+          "équation différentielle",
+          "espérance",
+          "limite de suite",
+          "moyenne",
+          "probabilité conditionnelle",
+          "probabilités",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Métropole Amérique du Nord J1 – 9 septembre 2025"
+      },
+      {
+        "page": 70,
+        "themes": [
+          "aire de triangle",
+          "droites non coplanaires",
+          "droites perpendiculaires",
+          "droites sécantes",
+          "géométrie dans l'espace",
+          "intégration par parties",
+          "points coplanaires",
+          "équation de droite",
+          "triangle rectangle",
+          "volume de tétraèdre"
+        ],
+        "sujet": "Métropole Amérique du Nord J1 – 9 septembre 2025"
+      },
+      {
+        "page": 71,
+        "themes": [
+          "démonstration par récurrence",
+          "probabilité conditionnelle",
+          "probabilités",
+          "Python",
+          "suite",
+          "vecteur normal",
+          "volume de pyramide"
+        ],
+        "sujet": "Métropole Amérique du Nord J1 – 9 septembre 2025"
+      },
+      {
+        "page": 72,
+        "themes": [
+          "combinatoire",
+          "inéquation",
+          "limite de suite",
+          "suite géométrique",
+          "Vrai–Faux"
+        ],
+        "sujet": "Métropole Amérique du Nord J1 – 9 septembre 2025"
+      },
+      {
+        "page": 73,
+        "themes": [
+          "espérance",
+          "limite de suite",
+          "loi binomiale"
+        ],
+        "sujet": "Métropole Amérique du Nord J1 – 9 septembre 2025"
+      },
+      {
+        "page": 74,
+        "themes": [
+          "arbre pondéré",
+          "équation de tangente",
+          "loi binomiale",
+          "probabilités"
+        ],
+        "sujet": "Métropole J2 – 10 septembre 2025"
+      },
+      {
+        "page": 75,
+        "themes": [
+          "combinatoire",
+          "convexité",
+          "équation de tangente",
+          "limite de suite",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "suite géométrique",
+          "Vrai–Faux"
+        ],
+        "sujet": "Métropole J2 – 10 septembre 2025"
+      },
+      {
+        "page": 76,
+        "themes": [
+          "convexité",
+          "combinatoire",
+          "loi binomiale",
+          "probabilités"
+        ],
+        "sujet": "Métropole J2 – 10 septembre 2025"
+      },
+      {
+        "page": 77,
+        "themes": [
+          "calcul d'aire",
+          "Python",
+          "probabilités"
+        ],
+        "sujet": "Métropole J2 – 10 septembre 2025"
+      },
+      {
+        "page": 78,
+        "themes": [
+          "géométrie dans l'espace",
+          "plans sécants",
+          "points coplanaires"
+        ],
+        "sujet": "Métropole J2 – 10 septembre 2025"
+      },
+      {
+        "page": 79,
+        "themes": [
+          "arbre pondéré",
+          "démonstration par récurrence",
+          "Python",
+          "probabilité conditionnelle",
+          "probabilités"
+        ],
+        "sujet": "Amérique du Sud J1 – 13 novembre 2025"
+      },
+      {
+        "page": 80,
+        "themes": [
+          "combinatoire",
+          "inéquation",
+          "lecture graphique"
+        ],
+        "sujet": "Amérique du Sud J1 – 13 novembre 2025"
+      },
+      {
+        "page": 81,
+        "themes": [
+          "convexité",
+          "équation de plan",
+          "limite de fonction",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Amérique du Sud J1 – 13 novembre 2025"
+      },
+      {
+        "page": 82,
+        "themes": [
+          "droite et plan orthogonaux",
+          "équation de plan",
+          "produit scalaire",
+          "représentation paramétrique de droite",
+          "valeur moyenne d'une fonction",
+          "variations de fonction"
+        ],
+        "sujet": "Amérique du Sud J1 – 13 novembre 2025"
+      },
+      {
+        "page": 83,
+        "themes": [
+          "Bienaymé-Tchebychev",
+          "espérance",
+          "évènements indépendants",
+          "inégalité de Bienaymé-Tchebychev",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "somme de variables aléatoires"
+        ],
+        "sujet": "Amérique du Sud J2 – 14 novembre 2025"
+      },
+      {
+        "page": 84,
+        "themes": [
+          "droites parallèles",
+          "équation de plan",
+          "plans orthogonaux",
+          "plans sécants",
+          "représentation paramétrique de droite",
+          "Q. C. M."
+        ],
+        "sujet": "Amérique du Sud J2 – 14 novembre 2025"
+      },
+      {
+        "page": 85,
+        "themes": [
+          "démonstration par récurrence",
+          "extremum",
+          "limite de suite",
+          "suite croissante",
+          "suite convergente"
+        ],
+        "sujet": "Amérique du Sud J2 – 14 novembre 2025"
+      },
+      {
+        "page": 86,
+        "themes": [
+          "combinatoire",
+          "convexité",
+          "dérivée",
+          "extrémum",
+          "intégrale",
+          "limite de fonction",
+          "probabilités",
+          "théorème des valeurs intermédiaires",
+          "variations de fonction"
+        ],
+        "sujet": "Amérique du Sud J2 – 14 novembre 2025"
+      },
+      {
+        "page": 88,
+        "themes": [
+          "espérance",
+          "loi binomiale",
+          "probabilité conditionnelle",
+          "probabilités",
+          "somme de variables aléatoires"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 – 20 novembre 2025"
+      },
+      {
+        "page": 89,
+        "themes": [
+          "distance point-plan",
+          "géométrie dans l'espace",
+          "projeté orthogonal",
+          "représentation paramétrique de droite",
+          "volume de pyramide"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 – 20 novembre 2025"
+      },
+      {
+        "page": 90,
+        "themes": [
+          "fonction exponentielle",
+          "suite décroissante",
+          "suite convergente"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 – 20 novembre 2025"
+      },
+      {
+        "page": 91,
+        "themes": [
+          "combinatoire",
+          "convexité",
+          "démonstration par récurrence",
+          "fonction logarithme népérien",
+          "limite de suite",
+          "suite convergente",
+          "variations de fonction",
+          "Vrai–Faux"
+        ],
+        "sujet": "Nouvelle-Calédonie J1 – 20 novembre 2025"
+      },
+      {
+        "page": 92,
+        "themes": [
+          "combinatoire",
+          "droites sécantes",
+          "géométrie dans l'espace",
+          "vecteur normal"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 – 21 novembre 2025"
+      },
+      {
+        "page": 93,
+        "themes": [
+          "arbre pondéré",
+          "probabilités"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 – 21 novembre 2025"
+      },
+      {
+        "page": 94,
+        "themes": [
+          "démonstration par récurrence",
+          "équation du second degré",
+          "espérance",
+          "fonction croissante",
+          "limite de suite",
+          "loi binomiale",
+          "somme de variables aléatoires",
+          "suite convergente",
+          "suite",
+          "variations de fonction",
+          "variance"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 – 21 novembre 2025"
+      },
+      {
+        "page": 95,
+        "themes": [
+          "asymptote",
+          "fonction logarithme népérien",
+          "limite de fonction",
+          "signe d'une fonction",
+          "théorème des valeurs intermédiaires"
+        ],
+        "sujet": "Nouvelle-Calédonie J2 – 21 novembre 2025"
+      }
+    ]
+  }
+}

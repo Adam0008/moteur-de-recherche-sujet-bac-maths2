@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recherche – Sujets Bac Maths</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar" role="banner">
+  <div class="navbar-inner">
+    <a href="index.html" class="navbar-brand">Sujets Bac Maths</a>
+    <button type="button" class="navbar-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+      <span class="navbar-toggle-bar"></span>
+      <span class="navbar-toggle-bar"></span>
+      <span class="navbar-toggle-bar"></span>
+    </button>
+    <nav class="navbar-menu" aria-label="Navigation principale">
+      <a href="index.html" class="navbar-link active">Recherche</a>
+      <a href="sujets-et-corriges.html" class="navbar-link">Sujets et corrigés</a>
+      <a href="sujets-traites.html" class="navbar-link">Sujets traités</a>
+      <a href="#" class="navbar-link" id="nav-connexion">Connexion</a>
+    </nav>
+  </div>
+</header>
+
+<main class="main-content">
+<div class="container">
+  <h1>📘 Recherche de sujets de bac par thèmes</h1>
+
+  <section class="annee-section">
+    <label>Année :</label>
+    <select id="annee"></select>
+  </section>
+
+  <section class="filters-section">
+    <div class="filter-container">
+      <h2>✅ Thèmes obligatoires</h2>
+      
+      <div id="chapitres-obligatoires" class="chapitres"></div>
+    </div>
+
+    <div class="filter-container">
+      <h2>❌ Thèmes à exclure</h2>
+      <p class="hint">QCM et Vrai–Faux uniquement</p>
+      <div id="chapitres-exclus" class="chapitres"></div>
+    </div>
+  </section>
+
+  <button id="btn-recherche">🔍 Rechercher des sujets</button>
+
+  <section class="resultats-section">
+    <div id="message-erreur-json" class="message-erreur" role="alert" aria-live="polite" style="display: none;"></div>
+    <a id="lien-apmep" href="#" target="_blank" style="display: block; margin-bottom: 15px; font-size: 14px;">🔗 Voir tous les sujets sur APMEP</a>
+    <h2>📋 Résultats</h2>
+    <ul id="resultats"></ul>
+    <div id="resultats-pagination"></div>
+  </section>
+</div>
+</main>
+
+<!-- Modal Connexion / Inscription -->
+<div id="auth-modal" class="auth-modal" role="dialog" aria-modal="true" aria-labelledby="auth-modal-titre" aria-hidden="true">
+  <div class="auth-modal-overlay"></div>
+  <div class="auth-modal-panel">
+    <div class="auth-modal-header">
+      <h2 id="auth-modal-titre" class="auth-modal-titre">Connexion</h2>
+      <button type="button" class="auth-modal-close" aria-label="Fermer">✕</button>
+    </div>
+    <div class="auth-modal-body">
+      <form id="auth-form-connexion" class="auth-form">
+        <label for="auth-email">Adresse email</label>
+        <input type="email" id="auth-email" name="email" required placeholder="vous@exemple.fr" autocomplete="email">
+        <label for="auth-password">Mot de passe</label>
+        <input type="password" id="auth-password" name="password" required placeholder="••••••••" autocomplete="current-password">
+        <label class="auth-checkbox-label">
+          <input type="checkbox" id="auth-show-password-connexion" class="auth-checkbox" aria-label="Afficher le mot de passe">
+          <span>Afficher le mot de passe</span>
+        </label>
+        <button type="submit" class="auth-btn-submit">Se connecter</button>
+        <p class="auth-switch">
+          <button type="button" id="auth-go-inscription" class="auth-link">Pas encore de compte ? S'inscrire</button>
+        </p>
+        <p class="auth-switch">
+          <button type="button" id="auth-forgot-password" class="auth-link">Mot de passe oublié ?</button>
+        </p>
+      </form>
+      <form id="auth-form-inscription" class="auth-form auth-form-hidden">
+        <label for="auth-nom">Nom</label>
+        <input type="text" id="auth-nom" name="nom" required placeholder="Dupont">
+        <label for="auth-prenom">Prénom</label>
+        <input type="text" id="auth-prenom" name="prenom" required placeholder="Jean">
+        <label for="auth-email-inscription">Adresse email</label>
+        <input type="email" id="auth-email-inscription" name="email" required placeholder="vous@exemple.fr" autocomplete="email">
+        <label for="auth-password-inscription">Mot de passe</label>
+        <input type="password" id="auth-password-inscription" name="password" required placeholder="••••••••" autocomplete="new-password">
+        <label for="auth-password-confirm">Confirmer le mot de passe</label>
+        <input type="password" id="auth-password-confirm" name="password_confirm" required placeholder="••••••••" autocomplete="new-password">
+        <label class="auth-checkbox-label">
+          <input type="checkbox" id="auth-show-password-inscription" class="auth-checkbox" aria-label="Afficher les mots de passe">
+          <span>Afficher le mot de passe</span>
+        </label>
+        <button type="submit" class="auth-btn-submit">Créer mon compte</button>
+        <p class="auth-switch">
+          <button type="button" id="auth-go-connexion" class="auth-link">Déjà un compte ? Se connecter</button>
+        </p>
+      </form>
+      <!-- Mot de passe oublié : étape 1 (email) -->
+      <form id="auth-form-reset-step1" class="auth-form auth-form-hidden">
+        <label for="auth-reset-email">Adresse email</label>
+        <input type="email" id="auth-reset-email" name="email" required placeholder="vous@exemple.fr" autocomplete="email">
+        <button type="submit" class="auth-btn-submit">Envoyer le code</button>
+        <p class="auth-switch">
+          <button type="button" id="auth-reset-back-to-login-1" class="auth-link">Retour à la connexion</button>
+        </p>
+      </form>
+      <!-- Mot de passe oublié : étape 2 (code) -->
+      <form id="auth-form-reset-step2" class="auth-form auth-form-hidden">
+        <p>Un code de validation à 6 caractères a été envoyé à votre adresse email.</p>
+        <label for="auth-reset-code">Code de validation</label>
+        <input type="text" id="auth-reset-code" name="code" required maxlength="6" placeholder="ABC123">
+        <button type="submit" class="auth-btn-submit">Valider le code</button>
+        <p class="auth-switch">
+          <button type="button" id="auth-reset-back-to-login-2" class="auth-link">Annuler et revenir à la connexion</button>
+        </p>
+      </form>
+      <!-- Mot de passe oublié : étape 3 (nouveau mot de passe) -->
+      <form id="auth-form-reset-step3" class="auth-form auth-form-hidden">
+        <label for="auth-reset-password">Nouveau mot de passe</label>
+        <input type="password" id="auth-reset-password" name="password" required placeholder="••••••••" autocomplete="new-password">
+        <label for="auth-reset-password-confirm">Confirmer le mot de passe</label>
+        <input type="password" id="auth-reset-password-confirm" name="password_confirm" required placeholder="••••••••" autocomplete="new-password">
+        <button type="submit" class="auth-btn-submit">Changer le mot de passe</button>
+        <p class="auth-switch">
+          <button type="button" id="auth-reset-back-to-login-3" class="auth-link">Annuler</button>
+        </p>
+      </form>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+<script src="auth-modal.js"></script>
+<script src="nav.js"></script>
+</body>
+</html>
